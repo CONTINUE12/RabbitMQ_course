@@ -10,7 +10,7 @@ RabbittMQ是实现了高级消息队列协议（AMQP）的开源消息中间件�
 流量削峰，应用解耦，异步处理。
 
 #### 思维导图
-
+![image](https://github.com/CONTINUE12/RabbitMQ_course/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
 
 #### 参与贡献
 
