@@ -4,7 +4,7 @@
 Java技术栈之RabbitMQ学习
 
 #### 概念
-RabbittMQ是实现了高级消息队列协议（AMQP）的开源消息中间件。![image](https://user-images.githubusercontent.com/70090652/167088013-f7e980ca-2bf3-4a9c-8be0-ba3971d53150.png)
+RabbittMQ是实现了高级消息队列协议（AMQP）的开源消息中间件。
 
 #### 作用
 流量削峰，应用解耦，异步处理。
